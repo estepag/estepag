@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+Incoming Master of Financial Engineering candidate @ UC Berkeley Haas (Jan 2027 – Jan 2028) Engineer (École Centrale de Lille) turned finance professional, focused on quantitative research and machine learning for financial markets.
 <!--
 **estepag/estepag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
